@@ -1,6 +1,6 @@
 body {
   padding-top: 4rem;
-  background-color: rgba(255, 221, 210);
+  background-color: rgba(189, 224, 254);
   color: grey;
 }
 
@@ -27,16 +27,15 @@ small{
 }
 
 .jumbotron{
-  background-color: rgba(245, 202, 195,0.5);
+  background-color: rgba(162, 210, 255,0.5);
 }
 
 .col{
   color: black;
 }
 
-
-
-#jumbo2{
+}
+#jumboo2{
   background-color: rgb(245, 202, 195);
 }
 #bodyy{
@@ -65,7 +64,7 @@ small{
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: purple;
+  background-color: blue;
 }
 
 #overlay2 {
@@ -98,4 +97,9 @@ small{
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+}
+
+
+#bodyyyy{
+  background-color: rgb(224, 170, 255);
 }
